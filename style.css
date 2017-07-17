@@ -1,0 +1,15 @@
+#layer2 {
+    position: absolute; background: #33FFCC;
+    top: 500px;     left: 500px;
+    width: 10px;    height: 10px;
+}
+#board {
+    position: absolute;
+    bottom: 15px;
+    left: 0px;
+    width: 60px;
+    height: 10px; background: #CC3300;
+}
+body{
+  overflow-x: hidden;
+}
